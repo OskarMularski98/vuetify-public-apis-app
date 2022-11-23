@@ -1,24 +1,3 @@
 # vuetify-public-apis-app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![vuetify-public-api](https://user-images.githubusercontent.com/56295769/203530226-9c8f049d-6dfa-4b6f-b602-fa70b63815d1.PNG)
