@@ -5,7 +5,7 @@
       <v-toolbar-title>Public APIs</v-toolbar-title>
       <v-spacer></v-spacer>
     </v-app-bar>
-    <v-main>
+    <v-main class="grey lighten-3">
       <v-container>
         <v-row>
           <v-col cols="12">
@@ -49,7 +49,7 @@
                 <v-pagination
                   v-model="page"
                   :length="pageCount"
-                  :total-visible="10"
+                  :total-visible="11"
                 ></v-pagination>
               </div>
             </v-fade-transition>
